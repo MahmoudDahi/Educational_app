@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Educational app</string>
+    <string name="text_note">Answer All Question :</string>
+    <string name="text_question1">1) Oil, natural gas and coal are examples of …</string>
+    <string name="editText_q1">Write Your Answer Here</string>
+    <string name="text_question2">2) A car travels at a constant speed of 40 miles per hour. How far does the car travel in 45 minutes?</string>
+    <string name="checkBox_q2_25miles">A) 25 miles</string>
+    <string name="checkBox_q2_30miles">B) 30 miles</string>
+    <string name="checkBox_q2_35miles">C) 35 miles</string>
+    <string name="checkBox_q2_40miles">D) 40 miles</string>
+    <string name="text_question3">3) Which of the following is used in pencils?</string>
+    <string name="checkBox_q3_graphite">A) Graphite</string>
+    <string name="checkBox_q3_woodenBody">B) Wooden Body</string>
+    <string name="checkBox_q3_charcoal">C) Charcoal</string>
+    <string name="checkBox_q3_phosphorous">D) Phosphorous</string>
+    <string name="text_question4">4) Chemical formula for water is H₂O?</string>
+    <string name="radio_yes">A) Yes</string>
+    <string name="radio_no">B) No</string>
+    <string name="result">Result</string>
+</resources>
